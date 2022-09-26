@@ -4,12 +4,6 @@ title: Application Components Solution
 sidebar_label: Diagnosing Issues
 description: Diagnose service issues with the Sumo Logic Observability Solution.
 ---
-
-
-
-<!-- finish formatting -->
-
-
 ## Deploy and Configure the Application Components Solution
 
 These instructions help you prepare and set up the Application Components Solution using a Terraform script.
