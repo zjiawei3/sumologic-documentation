@@ -11,7 +11,7 @@ These instructions help you prepare and set up the Application Components Soluti
 The Terraform script performs the following actions:
 
 * Creates Application Components View hierarchy in Explore.
-* Sets up Sumo Logic Field Extraction Rules ([FERs](docs/manage/field-extractions/fer-templates.md) to enrich the data.
+* Sets up Sumo Logic Field Extraction Rules [FERs](docs/manage/field-extractions/fer-templates) to enrich the data.
 * Installs Sumo Logic Apps(Database apps and App Components app) in the Admin recommended folder.
 * Creates [Fields](/docs/manage/fields).
 * Installs Monitors for each of the selected databases.
