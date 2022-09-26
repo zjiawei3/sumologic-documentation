@@ -32,7 +32,7 @@ For this setup, complete the following steps:
    * Manage Fields
    * Manage connections
    * Manage Content
-2. Using these [instructions](/docs/manage/security/access-keys), generate an access key and access ID for a user with the Manage Monitors role capability in Sumo Logic. Please identify which deployment your Sumo Logic account is in using this[ link]().
+2. Using these [instructions](/docs/manage/security/access-keys), generate an access key and access ID for a user with the Manage Monitors role capability in Sumo Logic. Please identify which deployment your Sumo Logic account is in using this[ link](/docs/api/getting-started/#sumo-logic-endpoints-by-deployment-and-firewall-security).
 3. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 
